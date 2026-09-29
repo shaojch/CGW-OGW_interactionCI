@@ -179,14 +179,14 @@
  /
 
  &param8
- var1      =   250000.0,   ！terrain location
- var2      =   3.0,            ! background wind
+ var1      =   250000.0,    ！terrain location
+ var2      =   3.0,         ! background wind
  var3      =   50000.0,     ! warm bubble location
- var4      =   0.0,             ! start add warm bubble
- var5      =   0.0,             ！end add warm bubble
- var6      =   10000.0,      ! terrain half width
- var7      =   500.0,          ! terrain height
- var8      =   33.0,            ! warm bubble stretch
+ var4      =   0.0,         ! start add warm bubble
+ var5      =   0.0,         ！end add warm bubble
+ var6      =   10000.0,     ! terrain half width
+ var7      =   500.0,       ! terrain height
+ var8      =   33.0,        ! warm bubble stretch
  var9      =   0.0,
  var10     =   0.0,
  var11     =   0.0,
